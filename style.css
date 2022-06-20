@@ -1,0 +1,52 @@
+ 
+.heading                 /* C117 */
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 5px grey;
+}
+.heading_div          /* C117 */
+{
+  float: none ; 
+  background: white ; 
+  padding: 10px; 
+  border-radius: 20px; 
+  color: black;
+  box-shadow:5px 5px 5px grey;
+}
+.heading_div2       /* C117 */
+{
+  font-size: 18px ;
+}
+.result_para_tag        /*C118 */
+{
+  box-shadow:5px 5px 5px grey;
+  font-size: 20px;
+}
+.copy_right_footer {          /*C118 */
+  position: fixed;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  background-color:grey;
+  line-height: 3;
+  text-align: center;
+}
+canvas                    /*C118 */
+{
+  border:5px solid black;
+  border-radius:20px;
+  box-shadow:5px 5px 5px grey;
+  margin-top: 150px; 
+}
+body{
+  background-image:url("bg-image.webp");
+  background-position:center;
+  background-size:contain;
+}
+
+.main_div {
+background-color: grey;
+font:white;
+}
